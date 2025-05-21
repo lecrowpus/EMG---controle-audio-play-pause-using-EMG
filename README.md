@@ -16,6 +16,9 @@ Triggering play/pause commands based on EMG signals.
 - **1x Muscle BioAmp Band**
 - **Hardware form:** [Upside Down Labs](https://upsidedownlabs.tech/)
 
+### Circuit diagram
+![image](https://github.com/user-attachments/assets/e561d17a-45f4-47ce-8f31-deeade34bec2)
+
 ### Software
 - **Arduino IDE v1.8.19 (legacy IDE)**
 - **VS Code**
